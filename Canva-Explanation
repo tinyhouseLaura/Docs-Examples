@@ -8,13 +8,7 @@ content_type: explanation
 # beta: true # Labels the page as beta; adds a banner to the top of the page.
 ---
 
-Explanation topics are understanding-oriented because they clarify and discuss a particular topic. These topics take a broader view of the software by discussing how something works, the background or context of a topic, what its benefits are, and drawbacks or alternatives.
-
-Explanation topics should start with an introduction paragraph. Good explanation documentation introductions explain who this explanation topic is for and what this topic will cover. 
-
-For example, you could start an explanation introduction paragraph about computers like the following:
-
-"Computers are digital machines that are used to perform operations, both arithmetic and logical, automatically. They can be useful in a variety of situations, such as typing a document, coding software, or watching a video. This guide is for users who are new to computers and explains what computers are, their history, the benefits of using a computer, and drawbacks of using computers."
+Canva is a graphic design tool that allows users to create graphics for social media posts, business cards, videos, and more. This program is an accessible tool for people new to design as seasoned vets due to its wide variety of templates and a free-to-use option. This guide is for users, like designers or content creators, who want to learn about Canva has to offer and how it can help them create graphic content.
 
 ## First context section <!-- Header optional if there's only one section in the article -->
 
